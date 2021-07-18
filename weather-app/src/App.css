@@ -1,7 +1,37 @@
-.App {
-  text-align: center;
-}
 
 .cityDetails {
   text-align: left;
 }
+
+.city-data {
+  float: left;
+  width: 50%;
+  height: 100%;
+} 
+
+.weather-data {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+
+.input-area{
+  padding-top: 70px;
+}
+
+.input {
+  height: 30px;
+  width: 230px;
+}
+
+.button {
+  margin-left: 25px;
+  width: 130px;
+  height: 35px;
+  font-size: 20px;
+}
+
+p {
+  font-size: 22px;
+}
+
